@@ -31,7 +31,7 @@ Database: MySQL
 
 Tools: VS Code, Git & GitHub
 
-📷 Screenshots\
+📷 Screenshots
 
 🏠 Home Page
 

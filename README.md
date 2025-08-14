@@ -31,9 +31,19 @@ Database: MySQL
 
 Tools: VS Code, Git & GitHub
 
-📷 Screenshots
+📷 Screenshots\
 
-(Add screenshots here to make the README more engaging)
+🏠 Home Page
+
+<img width="1892" height="852" alt="image" src="https://github.com/user-attachments/assets/c86a7eb7-283f-4f36-846a-f3ab48c61a98" />
+
+🛒 Shopping Cart
+<img width="987" height="540" alt="image" src="https://github.com/user-attachments/assets/f878c458-029f-43ed-8986-447675251a3a" />
+
+📦 Vendor Dashboard
+<img width="1888" height="860" alt="image" src="https://github.com/user-attachments/assets/893f5c8d-9ad1-4328-8469-53d677ea5d9f" />
+
+
 
 🚀 Installation & Setup
 
